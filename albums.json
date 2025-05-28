@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Aurora Dreams",
+    "artist": "Luna Wave",
+    "imageUrl": "https://i.imgur.com/Nf7ptBd.jpeg",
+    "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3"
+  },
+  {
+    "title": "Neon Pulse",
+    "artist": "Synth Nova",
+    "imageUrl": "https://i.imgur.com/RykB0S9.jpeg",
+    "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3"
+  },
+  {
+    "title": "Skyline Echoes",
+    "artist": "Urban Drift",
+    "imageUrl": "https://i.imgur.com/npX9ZVu.jpeg",
+    "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3"
+  }
+]
