@@ -16,5 +16,125 @@
     "artist": "Urban Drift",
     "imageUrl": "https://i.imgur.com/npX9ZVu.jpeg",
     "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3"
+  },
+  {
+    "title": "Upbeat Party",
+    "artist": "Scott Holmes",
+    "audioUrl": "https://files.freemusicarchive.org/storage-freemusicarchive-org/music/no_curator/Scott_Holmes/Happy_Music/Scott_Holmes_-_Upbeat_Party.mp3",
+    "coverUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Music_note_icon.png/600px-Music_note_icon.png"
+  },
+  {
+    "title": "Sunny",
+    "artist": "KODOMOi",
+    "audioUrl": "https://files.freemusicarchive.org/storage-freemusicarchive-org/music/ccCommunity/KODOMOi/Sunny/KODOMOi_-_Sunny.mp3",
+    "coverUrl": "https://upload.wikimedia.org/wikipedia/commons/8/82/Flat_sun_icon.svg"
+  },
+  {
+    "title": "Bossa Antigua",
+    "artist": "Kevin MacLeod",
+    "audioUrl": "https://files.freemusicarchive.org/storage-freemusicarchive-org/music/ccCommunity/Kevin_MacLeod/Bossa_Antigua/Bossa_Antigua.mp3",
+    "coverUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Music_icon_1.svg/512px-Music_icon_1.svg.png"
+  },
+  {
+    "title": "Cute",
+    "artist": "Bensound",
+    "audioUrl": "https://www.bensound.com/bensound-music/bensound-cute.mp3",
+    "coverUrl": "https://www.bensound.com/bensound-img/cute.jpg"
+  },
+  {
+    "title": "Buddy",
+    "artist": "Bensound",
+    "audioUrl": "https://www.bensound.com/bensound-music/bensound-buddy.mp3",
+    "coverUrl": "https://www.bensound.com/bensound-img/buddy.jpg"
+  },
+  {
+    "title": "Jazzy Frenchy",
+    "artist": "Bensound",
+    "audioUrl": "https://www.bensound.com/bensound-music/bensound-jazzyfrenchy.mp3",
+    "coverUrl": "https://www.bensound.com/bensound-img/jazzyfrenchy.jpg"
+  },
+  {
+    "title": "Better Days",
+    "artist": "Bensound",
+    "audioUrl": "https://www.bensound.com/bensound-music/bensound-betterdays.mp3",
+    "coverUrl": "https://www.bensound.com/bensound-img/betterdays.jpg"
+  },
+  {
+    "title": "Dreams",
+    "artist": "Joakim Karud",
+    "audioUrl": "https://files.freemusicarchive.org/storage-freemusicarchive-org/music/ccCommunity/Joakim_Karud/Dreams/Dreams.mp3",
+    "coverUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Music_icon_1.svg/512px-Music_icon_1.svg.png"
+  },
+  {
+    "title": "Energy",
+    "artist": "Bensound",
+    "audioUrl": "https://www.bensound.com/bensound-music/bensound-energy.mp3",
+    "coverUrl": "https://www.bensound.com/bensound-img/energy.jpg"
+  },
+  {
+    "title": "Funky Element",
+    "artist": "Bensound",
+    "audioUrl": "https://www.bensound.com/bensound-music/bensound-funkyelement.mp3",
+    "coverUrl": "https://www.bensound.com/bensound-img/funkyelement.jpg"
+  },
+  {
+    "title": "Happy Rock",
+    "artist": "Bensound",
+    "audioUrl": "https://www.bensound.com/bensound-music/bensound-happyrock.mp3",
+    "coverUrl": "https://www.bensound.com/bensound-img/happyrock.jpg"
+  },
+  {
+    "title": "Jazz Frenchy",
+    "artist": "Bensound",
+    "audioUrl": "https://www.bensound.com/bensound-music/bensound-jazzyfrenchy.mp3",
+    "coverUrl": "https://www.bensound.com/bensound-img/jazzyfrenchy.jpg"
+  },
+  {
+    "title": "Memories",
+    "artist": "Bensound",
+    "audioUrl": "https://www.bensound.com/bensound-music/bensound-memories.mp3",
+    "coverUrl": "https://www.bensound.com/bensound-img/memories.jpg"
+  },
+  {
+    "title": "Once Again",
+    "artist": "Bensound",
+    "audioUrl": "https://www.bensound.com/bensound-music/bensound-onceagain.mp3",
+    "coverUrl": "https://www.bensound.com/bensound-img/onceagain.jpg"
+  },
+  {
+    "title": "Punky",
+    "artist": "Bensound",
+    "audioUrl": "https://www.bensound.com/bensound-music/bensound-punky.mp3",
+    "coverUrl": "https://www.bensound.com/bensound-img/punky.jpg"
+  },
+  {
+    "title": "Slow Motion",
+    "artist": "Bensound",
+    "audioUrl": "https://www.bensound.com/bensound-music/bensound-slowmotion.mp3",
+    "coverUrl": "https://www.bensound.com/bensound-img/slowmotion.jpg"
+  },
+  {
+    "title": "Summer",
+    "artist": "Bensound",
+    "audioUrl": "https://www.bensound.com/bensound-music/bensound-summer.mp3",
+    "coverUrl": "https://www.bensound.com/bensound-img/summer.jpg"
+  },
+  {
+    "title": "The Jazz Piano",
+    "artist": "Bensound",
+    "audioUrl": "https://www.bensound.com/bensound-music/bensound-thejazzpiano.mp3",
+    "coverUrl": "https://www.bensound.com/bensound-img/thejazzpiano.jpg"
+  },
+  {
+    "title": "Tomorrow",
+    "artist": "Bensound",
+    "audioUrl": "https://www.bensound.com/bensound-music/bensound-tomorrow.mp3",
+    "coverUrl": "https://www.bensound.com/bensound-img/tomorrow.jpg"
+  },
+  {
+    "title": "Ukulele",
+    "artist": "Bensound",
+    "audioUrl": "https://www.bensound.com/bensound-music/bensound-ukulele.mp3",
+    "coverUrl": "https://www.bensound.com/bensound-img/ukulele.jpg"
   }
 ]
